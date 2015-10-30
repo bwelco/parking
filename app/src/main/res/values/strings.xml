@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Parking</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_get_car_acticity">停车</string>
+    <string name="title_activity_stop_car">取车</string>
+</resources>
